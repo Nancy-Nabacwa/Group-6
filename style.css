@@ -146,11 +146,38 @@ text-align-last: right;
   margin: 0%;
   text-align: left;
   align-content: center;
-  
-  
-  
-
-  
 
 
+
+
+
+
+}
+
+
+
+
+
+
+
+.mountain{
+  display: flex;
+  justify-content: space-between ;
+  width: 80%;
+  background-color: skyblue;
+-webkit-text-fill-color:black;
+padding: 6%;
+padding-left: 8%;
+margin: 0px;
+margin-right:0px ;
+}
+
+.water{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+
+}
+.event{
+  width: 60%;
 }
