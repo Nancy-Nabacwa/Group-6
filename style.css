@@ -1,0 +1,41 @@
+.person{
+    width: 20px;
+    height: 25px;
+}
+.container {
+    display:flex;
+    
+    align-items:center; 
+}
+#navbar li{
+    display:inline-block;
+  }
+  #navbar a{
+    text-decoration:none;
+    font-size:18px;
+    padding-right:15px;
+  }
+  #nav-bar{
+    margin-top: 2px;
+    margin-left: 200px;
+  }
+  #main-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  .buttons{
+    display: flex;
+  }
+  #p{
+    margin-top: 2px;
+  }
+  body{
+    background-image: url(images/images.jpg);
+    background-size: cover;
+  }
+  #bod{
+    text-align: center;
+    padding: 800px;
+  }
