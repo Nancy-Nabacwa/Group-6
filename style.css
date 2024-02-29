@@ -83,3 +83,32 @@
 .image{
   margin-right:20%;
 }
+.bit1{
+  display:flex;
+  padding-left:5% ;
+  background-color: skyblue;
+  -webkit-text-fill-color: black;
+  margin-right: 0%;
+  margin-left: 0%;
+  
+  
+  
+}
+#photo{
+  padding-left: 28%;
+  padding-right: 100%;
+  margin-right: 0%;
+
+}
+h5{
+  -webkit-text-fill-color:black;
+}
+header{
+  font-size:30px;
+  font-weight:bolder;
+}
+#text{
+font-size: medium;
+text-align-last: right;
+  
+}
