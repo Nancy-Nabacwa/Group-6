@@ -65,3 +65,21 @@
     font-size: 20px;
    padding-bottom: 0px
 }
+.All{
+  display: flex;
+  flex: content;
+  justify-content: space-between;
+  background-color: skyblue;
+  padding: 84px;
+  margin-top:50% ;
+  
+}
+.word{
+  color: black;
+  margin-left: 10%;
+  margin-top: 8%;
+  
+}
+.image{
+  margin-right:20%;
+}
