@@ -1,6 +1,8 @@
 .person{
     width: 20px;
     height: 25px;
+    color: white;
+    
 }
 .container {
     display:flex;
@@ -14,10 +16,12 @@
     text-decoration:none;
     font-size:18px;
     padding-right:15px;
+    color: white;
   }
   #nav-bar{
     margin-top: 2px;
     margin-left: 200px;
+    color: white;
   }
   #main-header{
     display:flex;
@@ -27,15 +31,37 @@
   }
   .buttons{
     display: flex;
+    color: white;
+    padding-left: 20px;
   }
   #p{
     margin-top: 2px;
   }
   body{
-    background-image: url(images/images.jpg);
+    background-image: url(images/pexels-photo-540518.webp);
     background-size: cover;
+    background-repeat: no-repeat;
   }
   #bod{
     text-align: center;
     padding: 800px;
+
   }
+  #logo{
+    color: white;
+  }
+#h1{
+    font-size: 60px;
+    font-weight: bolder;
+    
+    padding:20px;
+    width: 700px;
+    margin-left: 350px;
+    color: white;
+
+}
+#hg{
+    color:orangered ;
+    font-size: 20px;
+   padding-bottom: 0px
+}
